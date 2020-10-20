@@ -1,0 +1,14 @@
+.container {
+    background-color:white;
+    height: 100%;
+    width: 500px;
+    padding: 50px;
+  }
+
+  .signal {
+    color:red
+  }
+  
+  div {
+    margin: 20px;
+  }
